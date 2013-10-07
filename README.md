@@ -1,0 +1,4 @@
+workcakephp
+===========
+
+setting for cakephp
